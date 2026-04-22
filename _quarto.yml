@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "website"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  navbar:
+    title: Gabriel Duarte
+    left:
+      # - text: Home
+      #   href: index.qmd
+      #   icon: house
+      - text: CV
+        href: cv.qmd
+        icon: file-earmark-text
+    right:
+      - text: ""
+        href: https://www.linkedin.com/in/gabriel-duarte-45773570/
+        icon: linkedin
+      - text: ""
+        href: "mailto:gabrielestebandz@gmail.com"
+        icon: envelope
+    tools:
+      - icon: github
+        href: https://github.com/gduartez
+  page-footer:
+    right: "Hecho con ❤️ y [Quarto](https://quarto.org/)"
+      
+format:
+  html:
+    # mainfont: "Open Sans"
+    highlight-style: monokai
+    theme: [styles.scss]
+    grid: 
+      body-width: 800px
+
