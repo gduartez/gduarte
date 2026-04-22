@@ -35,3 +35,5 @@ format:
     grid: 
       body-width: 800px
 
+execute:
+  freeze: auto

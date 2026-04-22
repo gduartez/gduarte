@@ -19,7 +19,7 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 Aquí podrás acceder a diferentes recursos enfocados en mi experiencia analizando datos en temáticas de política pública.
 
-Soy Ingeniero Comercial con mención en Economía y Magíster en Economía y Políticas Públicas de la Universidad Adolfo Ibáñez. Actualmente trabajo en la [Municipalidad de Independencia](https://www.independencia.cl/) implementando un observatorio municipal y apoyando en en el diseño de indicadores y monitoreo de las prioridades del Alcade. 
+Soy Ingeniero Comercial con mención en Economía y Magíster en Economía y Políticas Públicas de la Universidad Adolfo Ibáñez. Actualmente trabajo en la [Municipalidad de Independencia](https://www.independencia.cl/) implementando un observatorio municipal y apoyando en el diseño de indicadores y monitoreo de las prioridades del Alcade. 
 
 Adicionalmente, desde el año 2024 formo parte del cuerpo docente del [Diplomado en Herramientas de Inteligencia Artificial para Políticas Públicas](https://www.uai.cl/postgrados/diplomados/diplomado-herramientas-inteligencia-artificial-politicas-publicas) de la Universidad Adolfo Ibáñez, del cual fui alumno en la generación del año 2020 y posteriormente ayudante del curso de Análisis de Datos y Estadística Computacional en la versión 2023. 
 
