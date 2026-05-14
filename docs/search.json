@@ -4,14 +4,56 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\n\nMachine Learning\n\n\nClustering\n\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\n\nData Visualization\n\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Predicting House Prices with Machine Learning\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\n\nThis project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection.\n\n\n\n1 ene 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering Techniques\n\n\n\nR\n\n\nMachine Learning\n\n\nClustering\n\n\nStatistical Modelling\n\n\n\nThis project focuses on segmenting customers into different groups based on their purchasing behavior and demographics. It uses clustering algorithms like K-means and hierarchical clustering to identify distinct customer segments.\n\n\n\n1 abr 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Global CO2 Emissions\n\n\n\nR\n\n\nData Visualization\n\n\nEnvironmental Science\n\n\n\nThis project involves creating visualizations to show trends in global CO2 emissions over time. It includes data extraction from public databases, data cleaning, and using visualization libraries to create interactive charts and graphs.\n\n\n\n1 jul 2024\n\n\n\n\n\n\n\n\nNo hay resultados"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum vitae",
+    "objectID": "exposiciones.html",
+    "href": "exposiciones.html",
+    "title": "Exposiciones",
     "section": "",
-    "text": "Descargar CV"
+    "text": "Taller de Visualización de datos con R\n\n\n5a feria de innovación pública\n\n\n\nVisualización\n\n\nTalleres\n\n\n\n\n\n\n\n\n\n18 mar 2024\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/index.html",
+    "href": "exposiciones/2024-taller-visualizacion-uai/index.html",
+    "title": "Taller de Visualización de datos con R",
+    "section": "",
+    "text": "Flyer de difusión\n\n\nEste taller tiene como objetivo que los asistentes aprendan y apliquen a través del lenguaje de programación R los conceptos fundamentales sobre la visualización de datos, los tipos de gráficos que se recomienda usar en función de la información disponible y algunos consejos para comunicar resultados de manera efectiva.\nLos contenidos generales del taller son:\n\nLa importancia de una buena visualización y sus principios.\nVisualización con ggplot2.\nTips para un buen storytelling con datos."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/index.html#taller",
+    "href": "exposiciones/2024-taller-visualizacion-uai/index.html#taller",
+    "title": "Taller de Visualización de datos con R",
+    "section": "",
+    "text": "Flyer de difusión\n\n\nEste taller tiene como objetivo que los asistentes aprendan y apliquen a través del lenguaje de programación R los conceptos fundamentales sobre la visualización de datos, los tipos de gráficos que se recomienda usar en función de la información disponible y algunos consejos para comunicar resultados de manera efectiva.\nLos contenidos generales del taller son:\n\nLa importancia de una buena visualización y sus principios.\nVisualización con ggplot2.\nTips para un buen storytelling con datos."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/index.html#presentación",
+    "href": "exposiciones/2024-taller-visualizacion-uai/index.html#presentación",
+    "title": "Taller de Visualización de datos con R",
+    "section": "Presentación",
+    "text": "Presentación\nPuedes navegar por las diapositivas directamente en el recuadro de abajo o hacer clic aquí para verla en pantalla completa. Usa las flechas de tu teclado para avanzar.\n\n\n\nRevive el Taller Aquí\n\n\n\n\nLinks útiles\n\nSesión Grabada\nggplot2\nFundamentos de Visualización de Datos"
+  },
+  {
+    "objectID": "clases.html",
+    "href": "clases.html",
+    "title": "Clases",
+    "section": "",
+    "text": "A continuación, se listan los cursos que he dictado a nivel de postgrado universitario"
+  },
+  {
+    "objectID": "clases.html#análisis-de-datos-y-estadística-computacional-uai",
+    "href": "clases.html#análisis-de-datos-y-estadística-computacional-uai",
+    "title": "Clases",
+    "section": "Análisis de Datos y Estadística Computacional – UAI",
+    "text": "Análisis de Datos y Estadística Computacional – UAI\n\n\n\n\nVersiones: 2026, 2024\nHerramientas de ciencia de datos e IA para analizar problemas públicos. La primera parte del curso se centra en el proceso estándar de manipulación y análisis de información. La segunda parte introduce el análisis estadístico con R."
+  },
+  {
+    "objectID": "clases.html#nivelación-estadística-uai",
+    "href": "clases.html#nivelación-estadística-uai",
+    "title": "Clases",
+    "section": "Nivelación Estadística – UAI",
+    "text": "Nivelación Estadística – UAI\n\n\n\n\nVersiones: 2025\nEl objetivo de este módulo es introducir los conceptos básicos de probabilidad y estadística mediante la ejecución de código en lenguaje R.\nAl finalizar este curso, las y los estudiantes serán capaces de emplear estadísticas descriptivas para un conjunto de datos ordenados (tidy) y entender la importancia de la inferencia estadística para extraer conclusiones a partir de información muestral u observacional (no experimental).\nSi bien la nivelación estadística es optativa, los contenidos abordados serán fundamentales para los temas tratados en el módulo 2 de Análisis de Datos y Estadística Computacional."
   },
   {
     "objectID": "blog/second-post/index.html",
@@ -35,9 +77,450 @@
     "text": "The source for any page in your website could also be a Jupyter Notebook. This one is third-post/index.ipynb.\nHere’s an example I borrowed from the Seaborn docs:\n\nimport seaborn as sns\n\nsns.set_theme(style=\"whitegrid\")\n\n# Load the diamonds dataset\ndiamonds = sns.load_dataset(\"diamonds\")\n\n# Plot the distribution of clarity ratings, conditional on carat\nsns.displot(\n    data=diamonds,\n    x=\"carat\", hue=\"cut\",\n    kind=\"kde\", height=4, aspect=1.5,\n    multiple=\"fill\", clip=(0, None),\n    palette=\"ch:rot=-.25,hue=1,light=.75\",   \n)"
   },
   {
+    "objectID": "cv/cv.html",
+    "href": "cv/cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Descargar CV (PDF)"
+  },
+  {
+    "objectID": "cv/cv.html#descarga-cv-en-español",
+    "href": "cv/cv.html#descarga-cv-en-español",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Descargar CV (PDF)"
+  },
+  {
+    "objectID": "cv/cv.html#resumen-profesional",
+    "href": "cv/cv.html#resumen-profesional",
+    "title": "Curriculum Vitae",
+    "section": "Resumen Profesional",
+    "text": "Resumen Profesional\nEconomista especializado en el análisis de datos e implementación de proyectos de prevención del delito con más de 7 años de experiencia laboral en el sector público. Poseo un manejo avanzado del software y realizo docencia de postgrado en la Universidad Adolfo Ibáñez sobre análisis de datos y estadística computacional. He liderado investigaciones aplicadas en seguridad ciudadana, aportando soluciones basadas en análisis estadísticos rigurosos y asesorando en el diseño, implementación y evaluación de programas sociales. Cuento con sólidos conocimientos en métodos de evaluación de políticas públicas, análisis estadístico y análisis geoespacial. Destaco por mi capacidad analítica, atención al detalle y habilidades interpersonales para la generación de redes que generen impacto en la población. Por último, cuento una marcada iniciativa para desarrollar soluciones innovadoras y basadas en evidencia utilizando la información disponible para resolver problemas complejos."
+  },
+  {
+    "objectID": "cv/cv.html#trayectoria-profesional",
+    "href": "cv/cv.html#trayectoria-profesional",
+    "title": "Curriculum Vitae",
+    "section": "Trayectoria profesional",
+    "text": "Trayectoria profesional\n\nAnalista de Control de Gestión y Asesor Comunal\n\nSubsecretaría de Prevención del Delito — Programa Lazos\n\n\nGestión presupuestaria, revisión de instrumentos de riesgo sociodelictual y apoyo al seguimiento del programa a nivel comunal.\n\nEncargado de Diagnóstico\n\nSubsecretaría de Prevención del Delito — Programa Barrios Prioritarios\n\n\nElaboración de diagnósticos territoriales para barrios priorizados, integrando información física, sociodemográfica y delictual.\n\nInvestigador\n\nSubsecretaría de Prevención del Delito — Dpto. Evaluación de Políticas Públicas\n\n\nEvaluación de programas, diseño de instrumentos de gestión y análisis territorial para mejorar la focalización de políticas públicas.\n\nAsesor de Gabinete\n\nServicio Nacional de Menores — Gabinete\n\n\nAnálisis de datos y apoyo técnico en la agenda de traspaso al nuevo Servicio de Reinserción Social Juvenil.\n\nEconomista e Investigador\n\nFundación Paz Ciudadana — Área de Prevención, Justicia y Reinserción\n\n\nInvestigación aplicada en seguridad pública, homicidios, crimen organizado, análisis geoespacial y evaluación de programas.\n\nEncargado de Prevención y Programas\n\nI. Municipalidad de Independencia — Dirección de Seguridad Pública\n\n\nDiseño e implementación de estrategias de prevención del delito, patrullaje focalizado y monitoreo de indicadores de gestión.\n\nEncargado Observatorio Municipal\n\nI. Municipalidad de Independencia — Alcaldía\n\n\nCreación del Observatorio Municipal, coordinación de 9 mesas estratégicas y formación de una Unidad de Analítica Avanzada para la toma de decisiones basada en datos."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#objetivo",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#objetivo",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Objetivo",
+    "text": "Objetivo\nEn este taller tiene como objetivo que los asistentes aprendan y apliquen a través del lenguaje de programación R los conceptos fundamentales sobre la visualización de datos, los tipos de gráficos que se recomienda usar en función de la información disponible y algunos consejos para comunicar resultados de manera efectiva.\nLos contenidos generales del taller son:\n\nLa importancia de una buena visualización y sus principios.\nVisualización con ggplot2.\nTips para un buen storytelling con datos."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#por-qué-visualizar",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#por-qué-visualizar",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¿Por qué visualizar?",
+    "text": "¿Por qué visualizar?\n\nEntender los datos con el fin de guiar análisis posteriores (análisis exploratorio).\nContar una historia sobre los datos y resultados con el fin de comunicar algo"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#la-importancia-de-entender-los-datos",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#la-importancia-de-entender-los-datos",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "La importancia de entender los datos",
+    "text": "La importancia de entender los datos\n\n(“Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics Through Simulated Annealing,” n.d.)\nVer: Datasaurus"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#el-cuarteto-de-anscombe",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#el-cuarteto-de-anscombe",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "El cuarteto de Anscombe",
+    "text": "El cuarteto de Anscombe\nEl Cuarteto de Anscombe es un conjunto de datos creado por el estadístico británico Francis Anscombe en 1973 (Anscombe 1973). Anscombe diseñó este conjunto de datos con el propósito de ilustrar la importancia de la visualización en el análisis de datos y la toma de decisiones estadísticas.\nEl Cuarteto de Anscombe consta de cuatro conjuntos de datos, cada uno con 11 pares de valores (x, y). Lo notable es que, aunque los cuatro conjuntos tienen estadísticas descriptivas idénticas (como media, varianza y correlación), al graficarlos se revelan diferencias significativas en su distribución y forma.\nEl objetivo de Anscombe al crear este conjunto de datos era destacar cómo una visualización adecuada puede ser fundamental para comprender la naturaleza de los datos y tomar decisiones informadas."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#el-cuarteto-de-anscombe-1",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#el-cuarteto-de-anscombe-1",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "El cuarteto de Anscombe",
+    "text": "El cuarteto de Anscombe\n\n\nGráfico\nDatos\nCódigo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nx1\nx2\nx3\nx4\ny1\ny2\ny3\ny4\n\n\n\n10\n10\n10\n8\n8.04\n9.14\n7.46\n6.58\n\n\n8\n8\n8\n8\n6.95\n8.14\n6.77\n5.76\n\n\n13\n13\n13\n8\n7.58\n8.74\n12.74\n7.71\n\n\n9\n9\n9\n8\n8.81\n8.77\n7.11\n8.84\n\n\n11\n11\n11\n8\n8.33\n9.26\n7.81\n8.47\n\n\n14\n14\n14\n8\n9.96\n8.10\n8.84\n7.04\n\n\n6\n6\n6\n8\n7.24\n6.13\n6.08\n5.25\n\n\n4\n4\n4\n19\n4.26\n3.10\n5.39\n12.50\n\n\n12\n12\n12\n8\n10.84\n9.13\n8.15\n5.56\n\n\n7\n7\n7\n8\n4.82\n7.26\n6.42\n7.91\n\n\n5\n5\n5\n8\n5.68\n4.74\n5.73\n6.89\n\n\n\n\n\n\n\n\nplots &lt;- list()\ndataset_names &lt;- c(\"1\", \"2\", \"3\", \"4\")\n\n# Loop para hacer los 4 gráficos\nfor (i in dataset_names) {\n  \nplot &lt;- ggplot(anscombe, aes_string(paste0(\"x\", i), paste0(\"y\", i))) +\n  geom_point(color = \"steelblue\", size = 1.5) +\n  geom_smooth(se = F, method = 'lm', col = '#FE514B') +\n  # geom_smooth(se =F, col = 'red') +\n  scale_x_continuous(breaks = seq(0, 20, 2)) +\n  scale_y_continuous(breaks = seq(0, 12, 2)) +\n  expand_limits(x = 0, y = 0) +\n  labs(x = paste0(\"x\", i), y = paste0(\"y\", i), title = paste0(\"Dataset \", i)) +\n  theme_bw()\n  \n  plots[[i]] &lt;- plot\n}\n\nmultiplot &lt;- do.call(gridExtra::grid.arrange, c(plots, ncol = 2))\n\n\n\n\n\nVer: Anscombe 1973"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#estadística-descriptiva-de-los-4-conjuntos",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#estadística-descriptiva-de-los-4-conjuntos",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Estadística descriptiva de los 4 conjuntos",
+    "text": "Estadística descriptiva de los 4 conjuntos\n\n\n\nEstadística Descriptiva\n\nVariable\nN\nMean\nStd. Dev.\nMin\nPctl. 25\nPctl. 75\nMax\n\n\n\nx1\n11\n9\n3,3\n4\n6,5\n12\n14\n\n\nx2\n11\n9\n3,3\n4\n6,5\n12\n14\n\n\nx3\n11\n9\n3,3\n4\n6,5\n12\n14\n\n\nx4\n11\n9\n3,3\n8\n8\n8\n19\n\n\ny1\n11\n7,5\n2\n4,3\n6,3\n8,6\n11\n\n\ny2\n11\n7,5\n2\n3,1\n6,7\n8,9\n9,3\n\n\ny3\n11\n7,5\n2\n5,4\n6,2\n8\n13\n\n\ny4\n11\n7,5\n2\n5,2\n6,2\n8,2\n12"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#el-cuarteto-de-anscombe-2",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#el-cuarteto-de-anscombe-2",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "El cuarteto de Anscombe",
+    "text": "El cuarteto de Anscombe\n\n\n\n\n\n\nMensaje Principal\n\n\n¡Confiar únicamente en medidas estadísticas resumidas sin una visualización adecuada puede conducir a conclusiones erróneas o incompletas!\n\n\n\nPor eso ¡es importante visualizar los datos antes de empezar a modelar!"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#lo-que-deberíamos-buscar",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#lo-que-deberíamos-buscar",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Lo que deberíamos buscar",
+    "text": "Lo que deberíamos buscar\n\nMostrar los datos y no mentir con estos.\n\nContar una historia (¿una relación? ¿causalidad? ¿un patrón? ¿un quiebre?).\nTransmitir y convencer.\n\n\nMinimizar aspectos innecesarios.\nVisualizaciones deben complementar el texto y tener suficiente información para “sobrevivir por sí mismas”."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#una-idea-general",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#una-idea-general",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Una idea general",
+    "text": "Una idea general\n\nEl cerebro solo puede procesar un cierto número de atributos de forma instantánea (pre-attentive attributes). Estos atributos son principalmente 4:\n\nForma\nPosición\nColor\nTamaño\n\n\nQueremos buscar la variación justa en estos atributos para enfocarnos en lo que importa."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#cuántos-3-hay",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#cuántos-3-hay",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¿Cuántos 3 hay?",
+    "text": "¿Cuántos 3 hay?"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#y-ahora",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#y-ahora",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¿Y ahora?",
+    "text": "¿Y ahora?"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#algunos-principios-tufte2001",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#algunos-principios-tufte2001",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Algunos Principios (Tufte 2001)\n",
+    "text": "Algunos Principios (Tufte 2001)\n\n\nMuestra los datos.\nInduce a la audiencia a pensar en lo esencial en lugar de la metodología, el diseño u otro atributo del gráfico.\nEvita distorsionar lo que los datos dicen.\nMaximiza el ratio entre datos y tinta (o texto).\nCumple un objetivo razonable y claro: Explorar, describir, etc.\nEvita tinta que no corresponda a datos.\nNo ser redundante en la información.\nEvita la basura visual.\n\n\nVer: Edward Tufte"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#error-1-violar-el-principio-de-la-proporcionalidad",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#error-1-violar-el-principio-de-la-proporcionalidad",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Error #1: Violar el principio de la proporcionalidad",
+    "text": "Error #1: Violar el principio de la proporcionalidad\n\n\n\n\n\n\nThe principle of proportional ink\n\n\nLos tamaños de las áreas sombreadas en una visualización deben ser proporcionales a los valores de datos que representan\n\n\n\nEn particular, este principio no se cumple en los gráficos de barra cuyo eje y no parte en 0"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-opinan-de-este-gráfico",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-opinan-de-este-gráfico",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¿Qué opinan de este gráfico?",
+    "text": "¿Qué opinan de este gráfico?\n\n\n\n\n\nLa base parte en 94 M$\n2009 Q3 (tercera barra) parece ser casi el doble de 2009 Q1 (primera barra), pero en realidad son solo 2 Millones de diferencia (2% y no 100% adicional)\n\n\n\nVer: Misleading Graphs"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#y-de-este-otro-gráfico",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#y-de-este-otro-gráfico",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¿Y de este otro gráfico?",
+    "text": "¿Y de este otro gráfico?\n\n\nVer: Misleading Graph 2"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#error-2-no-entregar-contexto-tufte2001",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#error-2-no-entregar-contexto-tufte2001",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Error #2: No entregar contexto (Tufte 2001)\n",
+    "text": "Error #2: No entregar contexto (Tufte 2001)\n\n\nCuando mostramos una evolución, es importante preguntarse ¿comparado con qué?\n\n\n\nVer: Tufte, E.; 2001"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#posibles-evoluciones",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#posibles-evoluciones",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Posibles evoluciones",
+    "text": "Posibles evoluciones\n\n\nVer: Tufte, E.; 2001"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#podría-ser-útil-comparar-con-estado-vecinos",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#podría-ser-útil-comparar-con-estado-vecinos",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Podría ser útil comparar con estado vecinos",
+    "text": "Podría ser útil comparar con estado vecinos\n\n\nVer: Tufte, E.; 2001"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#error-3-mostrar-mucha-información",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#error-3-mostrar-mucha-información",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Error #3: Mostrar mucha información",
+    "text": "Error #3: Mostrar mucha información\n\n\n\n\n\nEn este gráfico es muy difícil relacionar los colores de la leyenda con los puntos en el scatter plot dada la gran cantidad de Estados (Wilke 2019).\n\n\n\nVer: Fundamentals of Data Visualization"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-les-parece-ahora",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-les-parece-ahora",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¿Qué les parece ahora?",
+    "text": "¿Qué les parece ahora?\n\n\nVer: Fundamentals of Data Visualization"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#ggplot2",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#ggplot2",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "ggplot2",
+    "text": "ggplot2\n¿Qué es?\n\nEs un paquete de R para producir gráficos estadísticos que utiliza una gramática subyacente conocida como gramar of graphics, la cual permite componer gráficas combinando componentes independientes.\n\n\n¿Para qué?\n\nPara producir datos o gráficos estadísticos ajustados a cualquier problema específico.\n\n\n\n¿Cuál es su ventaja?\n\nPermite crear gráficos novedosos.\nEs fácil de aprender.\nLos valores predeterminados y la lógica detrás de su gramática permite producir gráficos con alta calidad de publicación en segundos.\nPermite trabajar iterativamente, añadiendo capas al gráfico, haciendo más fácil la transición entre una idea a un gráfico real."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#grammar-of-graphics-wickham2009",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#grammar-of-graphics-wickham2009",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Grammar of Graphics (Wickham 2009)\n",
+    "text": "Grammar of Graphics (Wickham 2009)\n\n\n\n\n\nUn gráfico asigna los datos a los atributos estéticos (aesthethics) (color, forma, tamaño) respecto a objetos geométricos (geometric objects) (puntos, líneas, barras).\nEl gráfico también puede incluir transformaciones estadísticas (statistics) de los datos e información sobre el sistema de coordenadas (coordinates system) del gráfico.\nEl facetado (faceting) se puede utilizar para trazar diferentes subconjuntos de datos.\nLa combinación de estos componentes independientes son los que forman una gráfica."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#definiciones",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#definiciones",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Definiciones",
+    "text": "Definiciones\n\nCapa (Layer): Es una colección de elementos geométricos y transformaciones estadísticas. Los elementos geométricos geom_ representan lo que realmente se ve en el gráfico: puntos, líneas, polígonos, etc. Las transformaciones estadísticas, para abreviar estadísticas, resumen los datos: por ejemplo, agrupar y contar observaciones para crear un histograma o ajustar un modelo lineal.\nEscalas (Scales): Asignan valores en el espacio de datos a valores en el espacio estético. Esto incluye el uso de color, forma o tamaño. Las escalas también dibujan la leyenda y los ejes, lo que permite leer los valores de datos originales del gráfico.\nSistema de coordenadas (Coordinate System): Describe cómo se asignan las coordenadas de los datos al plano del gráfico. También proporciona ejes y líneas de cuadrícula para ayudar a leer el gráfico. Normalmente utilizamos el sistema de coordenadas cartesiano, pero hay otros disponibles, incluidas coordenadas polares y proyecciones cartográficas.\nFaceta (Facets): Especifica cómo dividir y mostrar subconjuntos de datos como pequeños múltiplos\nTema (Theme) Controla los puntos más finos de visualización, como el tamaño de fuente y el color de fondo."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#ejemplo-práctico",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#ejemplo-práctico",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Ejemplo Práctico",
+    "text": "Ejemplo Práctico\nOcupemos datos del censo 2017 para obtener la población por tramo etario. Para ello, primero veamos la estructura de los datos que usaremos:"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#ordenamiento-de-los-datos",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#ordenamiento-de-los-datos",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Ordenamiento de los datos",
+    "text": "Ordenamiento de los datos\n\n\nCódigo\nDatos\n\n\n\n\nlibrary(chilemapas)\npoblacion_comunas &lt;- censo_2017_comunas %&gt;%\n  group_by(codigo_comuna) %&gt;% \n  summarise(poblacion = sum(poblacion))\n\ncod_territoriales &lt;- codigos_territoriales %&gt;% \n  select(!matches(\"provincia\")) |&gt; \n  mutate(zona = case_when(\n    codigo_region %in% c('15','01','02','03','04') ~ 'Norte',\n    codigo_region %in% c('05','13','06','07','16','08') ~ 'Centro',\n    .default = 'Sur'\n  ))\n\npoblacion_comunas_region &lt;- left_join(poblacion_comunas,cod_territoriales)\n\npoblacion_zonas &lt;- poblacion_comunas_region |&gt; \n  group_by(zona) |&gt; \n  summarise(poblacion = sum(poblacion)) |&gt; \n  mutate(porcentaje = poblacion / sum(poblacion))\n# comunas_chile &lt;- mapa_comunas %&gt;% \n#   left_join(codigos_territoriales) %&gt;% \n#   left_join(poblacion_comunas)\n\n\n\n\n\n\n\nzona\npoblacion\nporcentaje\n\n\n\nCentro\n12925629\n0.7354971\n\n\nNorte\n2207914\n0.1256352\n\n\nSur\n2440460\n0.1388676"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#argumentos-de-la-función-ggplot",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#argumentos-de-la-función-ggplot",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Argumentos de la función ggplot\n",
+    "text": "Argumentos de la función ggplot\n\n\nggplot2\n\n\naes()\ngeom_\nstat_\nscale_\ntheme_\nfacet_\ncoord_"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-ocurre-si-ocupamos-la-función-ggplot-y-solo-especificamos-el-argumento-data",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-ocurre-si-ocupamos-la-función-ggplot-y-solo-especificamos-el-argumento-data",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¿Qué ocurre si ocupamos la función ggplot y solo especificamos el argumento data\n",
+    "text": "¿Qué ocurre si ocupamos la función ggplot y solo especificamos el argumento data\n\n\nggplot(data = poblacion_zonas)"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-ocurre-si-ahora-agregamos-el-aesthetic-correspondiente-al-eje-x",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-ocurre-si-ahora-agregamos-el-aesthetic-correspondiente-al-eje-x",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¿Qué ocurre si ahora agregamos el aesthetic correspondiente al eje x?",
+    "text": "¿Qué ocurre si ahora agregamos el aesthetic correspondiente al eje x?\n\nggplot(poblacion_comunas_region,\n       aes(x=zona))"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#agregemos-un-geom_-para-graficar-un-objeto-geométrico",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#agregemos-un-geom_-para-graficar-un-objeto-geométrico",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Agregemos un geom_ para graficar un objeto geométrico",
+    "text": "Agregemos un geom_ para graficar un objeto geométrico\n\nggplot(poblacion_zonas,aes(x=zona,y=poblacion)) +\n  geom_bar(stat = 'identity') #Esto es necesario cuando hacemos un gráfico de barras con 2 ejes (x e y)"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#ordenamos-por-población-y-cambiamos-color",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#ordenamos-por-población-y-cambiamos-color",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Ordenamos por Población y cambiamos color",
+    "text": "Ordenamos por Población y cambiamos color\n\nlibrary(ggthemes)\nlibrary(scales)\nlibrary(forcats)\nggplot(poblacion_zonas,aes(x= reorder(zona,poblacion),y=poblacion))+ \n  geom_bar(stat = 'identity',fill = 'steelblue')"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#agregamos-etiquetas-a-los-ejes-título-y-subtítulo",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#agregamos-etiquetas-a-los-ejes-título-y-subtítulo",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Agregamos etiquetas a los ejes, título y subtítulo",
+    "text": "Agregamos etiquetas a los ejes, título y subtítulo\n\nggplot(poblacion_zonas,aes(x= reorder(zona,poblacion),y=poblacion)) +\n  geom_bar(stat = 'identity',fill = 'steelblue')+\n  labs(title = \"Población por Zona Geográfica de Chile\",\n    subtitle = \"Censo 2017\",\n    x = \"Zona\",\n    y = \"Población\")"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#agregamos-etiquetas-de-población-cambios-tema-e-invertimos-coordenadas",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#agregamos-etiquetas-de-población-cambios-tema-e-invertimos-coordenadas",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Agregamos etiquetas de población, cambios tema e invertimos coordenadas",
+    "text": "Agregamos etiquetas de población, cambios tema e invertimos coordenadas\n\nggplot(poblacion_zonas,aes(x= reorder(zona,poblacion),y=poblacion)) +\n  geom_bar(stat = 'identity',fill = 'steelblue')+\n  labs(title = \"Población por Zona Geográfica de Chile\",subtitle = \"Censo 2017\", x = \"\",y = \"Población\")+\n  scale_y_continuous(labels = label_number(big.mark = \".\"), n.breaks = 5) +\n  geom_label(aes(label = format(poblacion, big.mark = \".\"),fontface='bold'), vjust = .2, hjust = 1.1)+\n  theme_clean(base_size = 15)+\n  coord_flip()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#ahora-como-porcentaje-del-total",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#ahora-como-porcentaje-del-total",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Ahora como porcentaje del total",
+    "text": "Ahora como porcentaje del total\n\nggplot(poblacion_zonas,aes(x= reorder(zona,porcentaje),y=porcentaje)) +\n  geom_bar(stat = 'identity',fill = 'steelblue')+\n  labs(title = \"Población por Zona Geográfica de Chile (% del Total)\",subtitle = \"Censo 2017\", x = \"\",y = \"Población\")+\n  scale_y_continuous(labels = scales::percent_format(), n.breaks = 5) +\n  geom_label(aes(label = scales::percent(porcentaje, accuracy = 0.1)),fontface='bold', vjust = .2, hjust = 1.1)+\n  theme_clean(base_size = 15)+\n  coord_flip()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#tipos-de-visualización-segun-el-tipo-de-dato",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#tipos-de-visualización-segun-el-tipo-de-dato",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Tipos de visualización segun el tipo de dato",
+    "text": "Tipos de visualización segun el tipo de dato\n\nExisten distintas formas de clasificar las diferentes formas de visualizar los datos, ya sea por el tipo de dato que se posee, o bien por el objetivo que busque a través de la visualización.\nEn la siguiente tabla, se muestra de manera simplificada una combinación de datos disponibles y los objetos geométricos / gráficas que se recomienda utilizar para cada una de ellas:"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#tipos-de-visualización-segun-el-tipo-de-dato-1",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#tipos-de-visualización-segun-el-tipo-de-dato-1",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Tipos de visualización segun el tipo de dato",
+    "text": "Tipos de visualización segun el tipo de dato\n\n\n\n\n\n\n\nCantidad de Variables\nTipo de Variable\nGeom Recomendado\n\n\n\n1\nCategórica\ngeom_bar(),ggpie(),geom_treemap()\n\n\n1\nCuantitativa\ngeom_histogram(),geom_density()\n\n\n2\nCategórica y Categórica\ngeom_bar(position = c('stack','dodge'),\n\n\n2\nCuantitativa y Cuantitativa\ngeom_point(), geom_line()\n\n\n2\nCategórica y Cuantitativa\ngeom_bar(stat = 'identity'),geom_density(),geom_boxplot()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#y-muchas-más-opciones-en-función-del-objetivo",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#y-muchas-más-opciones-en-función-del-objetivo",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Y muchas más opciones en función del objetivo",
+    "text": "Y muchas más opciones en función del objetivo"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#scatterplot-avanzado",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#scatterplot-avanzado",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Scatterplot Avanzado",
+    "text": "Scatterplot Avanzado\n\n\nlibrary(ggplot2)\ndata(Salaries, package=\"carData\")\n\nggplot(Salaries, \n       aes(x = yrs.since.phd,\n           y = salary,\n           color = rank)) +\n  geom_point(alpha = .4,size=3) +\n  geom_smooth(se=FALSE,method=\"lm\",\n              formula=y~poly(x,2), size = 1.5) +\n  labs(x = \"Años desde el Ph.D.\",\n       title = \"Salario Académico por Ranking y Años de Experiencia\",\n       subtitle = \"Salario de 9 meses para 2008-2009\",\n       y = \"\",\n       color = \"Ranking\") +\n  scale_y_continuous(label = scales::dollar) +\n  scale_color_brewer(palette=\"Set1\") +\n  theme_minimal()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#bar-chart-agrupado",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#bar-chart-agrupado",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Bar Chart agrupado",
+    "text": "Bar Chart agrupado\n\nggplot(diamonds, aes(x = cut, fill = color)) + \n  geom_bar(position = \"dodge\")+\n  scale_fill_brewer(palette = \"Set2\")"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#bar-chart-segmentado-o-apilado",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#bar-chart-segmentado-o-apilado",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Bar Chart segmentado o apilado",
+    "text": "Bar Chart segmentado o apilado\n\n#útil para comparar el porcentaje de una categoría en una variable en cada nivel de otra variable\nggplot(diamonds, aes(x = cut, fill = color)) + \n  geom_bar(position = \"fill\") +\n  labs(y = \"Proporción\")+\n  scale_fill_brewer(palette = \"Set2\")+\n  theme_economist_white()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#mostrar-distribuciones-por-variable-categórica-boxplot",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#mostrar-distribuciones-por-variable-categórica-boxplot",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Mostrar distribuciones por variable categórica: Boxplot",
+    "text": "Mostrar distribuciones por variable categórica: Boxplot\n\n# plot the distribution of salaries by rank using boxplots\nggplot(Salaries, aes(x = rank, y = salary)) +\n  geom_boxplot(fill = \"cornflowerblue\", \n               alpha = .7) +\n  labs(title = \"Distribución del salario por tipo de profesor\")+\n  theme_bw()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#mostrar-distribuciones-por-variable-categórica-density-plot",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#mostrar-distribuciones-por-variable-categórica-density-plot",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Mostrar distribuciones por variable categórica: Density plot",
+    "text": "Mostrar distribuciones por variable categórica: Density plot\n\nggplot(Salaries, aes(x = salary, fill = rank)) +\n  geom_density(alpha = 0.6) +\n  labs(title = \"Distribución del salario por tipo de profesor\")+\n  theme_classic()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#histograma-expectativa-de-vida",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#histograma-expectativa-de-vida",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "1: Histograma Expectativa de Vida",
+    "text": "1: Histograma Expectativa de Vida\n\nUtilice el siguiente data.frame de gapminder(Jennifer 2023) para realizar un histograma de la expectativa de vida de los países. Rellene de color azul las barras y divídalas en 80 Por último, añada un tema distinto al que entrega por defecto\n\n\n\nlibrary(gapminder)\nlibrary(ggplot2)\nlibrary(dplyr)\n\ndata(gapminder)\n\nggplot(gapminder,\n       aes(x = ***))+\n  geom_histogram(color = 'darkblue',*** = 'cornflowerblue', bins = ***)+\n  scale_y_continuous(labels = scales::label_number(big.mark = \".\")) +\n  scale_x_continuous(labels = scales::label_number(big.mark = \".\", accuracy = 1)) +\n  theme_***()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#solución",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#solución",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Solución",
+    "text": "Solución\n\nlibrary(gapminder)\nlibrary(ggplot2)\nlibrary(dplyr)\n\ndata(gapminder)\nggplot(gapminder,\n       aes(x = lifeExp))+\n  geom_histogram(color = 'darkblue',fill = 'cornflowerblue', bins = 80)+\n  scale_y_continuous(labels = scales::label_number(big.mark = \".\")) +\n  scale_x_continuous(labels = scales::label_number(big.mark = \".\", accuracy = 1)) +\n  theme_minimal()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#histograma-expectativa-de-vida-1",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#histograma-expectativa-de-vida-1",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "1.2: Histograma Expectativa de Vida",
+    "text": "1.2: Histograma Expectativa de Vida\nAhora grafique 2 histogramas en el mismo gráfico pero separado por el continente Africa y Americas. Mejore las etiquetas del eje x, y, la leyenda y aumente el tamaño del gráfico ¿Qué puede concluir?\n\nggplot(gapminder |&gt; filter(continent %in% c('Americas', 'Africa')),\n       aes(x = lifeExp, fill = ***))+\n  geom_histogram(color = 'black', bins = 80)+\n  labs(x = ***,\n        y = ***,\n        *** = 'Continente') +\nscale_y_continuous(labels = scales::label_number(big.mark = \".\")) +\n  scale_x_continuous(labels = scales::label_number(big.mark = \".\", accuracy = 1))+\n  theme_minimal(*** = 15)"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#solución-1.2",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#solución-1.2",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Solución 1.2",
+    "text": "Solución 1.2\n\nggplot(gapminder |&gt; filter(continent %in% c('Americas', 'Africa')),\n       aes(x = lifeExp, fill = continent))+\n  geom_histogram(color = 'black', bins = 80)+\n  labs(x = 'Expectativa de Vida',\n        y = 'Cantidad de Países',\n        fill = 'Continente') +\nscale_y_continuous(labels = scales::label_number(big.mark = \".\")) +\n  scale_x_continuous(labels = scales::label_number(big.mark = \".\", accuracy = 1))+\n  theme_minimal(base_size = 15)"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#salario-por-sexo",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#salario-por-sexo",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "2: Salario por sexo",
+    "text": "2: Salario por sexo\n\nUtilizando el dataset Salaries ajuste una RECTA entre el salario y los años desde el doctorado para cada sexo ¿Qué puede desprender ahora del gráfico? Pista: Fíjese en los valores usados para el aesthetic para cambiar la disposición objetos geométricos y en el geom_smooth para el ajuste de una recta\n\n\n\n\nlibrary(ggplot2)\ndata(Salaries, package=\"carData\")\nhead(Salaries)\n\nggplot(Salaries, \n       aes(x = yrs.since.phd,\n           y = salary,\n           color = ***)) +\n  geom_point(alpha = .4,size=3) +\n  geom_smooth(se=FALSE,method=***, size = 1.5) +\n  labs(x = \"Años desde el Ph.D.\",\n       title = \"Salario Académico por *** y Años de Experiencia\",\n       subtitle = \"Salario de 9 meses para 2008-2009\",\n       y = \"\",\n       *** = ***) +\n  scale_y_continuous(label = scales::dollar) +\n  scale_color_brewer(palette=\"Set1\") +\n  theme_minimal()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#solución-1",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#solución-1",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Solución",
+    "text": "Solución\n\n\n(s2 &lt;- ggplot(Salaries, \n       aes(x = yrs.since.phd,\n           y = salary,\n           color = sex)) +\n  geom_point(alpha = .4,size=3) +\n  geom_smooth(se=FALSE,method=\"lm\",\n              # formula=y~poly(x,2),\n              size = 1.5) +\n  labs(x = \"Años desde el Ph.D.\",\n       title = \"Salario Académico por Sexo y Años de Experiencia\",\n       subtitle = \"Salario de 9 meses para 2008-2009\",\n       y = \"\",\n       color = \"Sexo\") +\n  scale_y_continuous(label = scales::dollar) +\n  scale_color_brewer(palette=\"Set1\") +\n  theme_minimal()\n)"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#agregar-interactividad",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#agregar-interactividad",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Agregar interactividad",
+    "text": "Agregar interactividad\n\nlibrary(plotly)\nggplotly(s2)\n\n\n\n\n\n\nVer: Plotly"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#mapas-estáticos",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#mapas-estáticos",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Mapas estáticos",
+    "text": "Mapas estáticos\n\noptions(scipen = 999)\n# install.packages(\"devtools\")\n# devtools::install_github(\"yutannihilation/ggsflabel\")\nlibrary(ggsflabel)\n\ncomunas_santiago &lt;-  mapa_comunas |&gt; \n  filter(codigo_region == 13) %&gt;% \n  left_join(poblacion_comunas_region, join_by('codigo_comuna'))\n\nggplot(comunas_santiago) + \n  geom_sf(aes(fill = poblacion, geometry = geometry)) +\n  geom_sf_label_repel(data = (comunas_santiago |&gt; slice_max(poblacion, n = 5)), aes(label = nombre_comuna, geometry = geometry)) +\n  scale_fill_distiller(palette= \"YlOrRd\", direction = 1,name = \"Población Comunal\",labels = scales::label_number(big.mark = \".\"))+\n  labs(title = \"Poblacion Comunas de Santiago\") +\n  theme_minimal(base_size = 13)"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#mapas-estáticos-1",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#mapas-estáticos-1",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Mapas estáticos",
+    "text": "Mapas estáticos"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#mapas-interactivos",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#mapas-interactivos",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Mapas interactivos",
+    "text": "Mapas interactivos"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#tasa-de-homicidios-2023",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#tasa-de-homicidios-2023",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Tasa de Homicidios 2023",
+    "text": "Tasa de Homicidios 2023"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#resaltar-objetos-geométricos",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#resaltar-objetos-geométricos",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Resaltar objetos geométricos",
+    "text": "Resaltar objetos geométricos\n\nlibrary(gghighlight)\nlibrary(gapminder)\ndata(gapminder)\n\nggplot(gapminder |&gt; filter(continent == 'Americas')) +\n  geom_line(aes(year, lifeExp, colour = country), linewidth = 2) +\n  theme_minimal()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#resaltar-objetos-geométricos-1",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#resaltar-objetos-geométricos-1",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Resaltar objetos geométricos",
+    "text": "Resaltar objetos geométricos\n\nggplot(gapminder |&gt; filter(continent == 'Americas')) +\n  geom_line(aes(year, lifeExp, colour = country), linewidth = 2) +\n  gghighlight(country == 'Chile')+\n  theme_minimal()"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-es-una-historia-schimel2012",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-es-una-historia-schimel2012",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¿Qué es una historia? (Schimel 2012)\n",
+    "text": "¿Qué es una historia? (Schimel 2012)\n\n\nLa mayor parte de la visualización de datos se realiza con el fin de comunicar algo.\nUna historia es un conjunto de observaciones, hechos o eventos, verdaderos o inventados, que se presentan en un orden específico de manera que crean una reacción emocional en la audiencia.\nLa reacción emocional se crea mediante la acumulación de tensión al comienzo de la historia seguida de algún tipo de resolución hacia el final de la historia.\nEs importante tener un arco narrativo claro e identificable (flujo que va desde la tensión hasta la resolución)."
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-factores-son-relevantes-succes",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#qué-factores-son-relevantes-succes",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¿Qué factores son relevantes? SUCCES:\n",
+    "text": "¿Qué factores son relevantes? SUCCES:\n\n\n\nSimple: Las ideas simples contienen el mensaje principal y la esencia en una manera sencilla y compacta.\n\nUnexpected: Contar ideas o resultados novedosos. Identificar una brecha de conocimiento genera curiosidad. Llenar ese vacío, crea novedad.\n\nConcrete: Los datos son concretos pero las ideas son abstractas. El desafío consiste en combinar la dificultad de la abstracción con lo concreto de los datos para poder comunicar algo importante y que tenga sustento.\n\nCredible: Ganamos credibilidad de nuestras conclusiones mostrando que están sustentadas en datos y si éstos, a su vez, fueron utilizados bajo una metodología robusta, presentados de forma clara y ocupando estadísticas apropiadas.\n\nEmotional: En lugar de preguntar ¿Qué información voy a presentar? se debe cambiar el enfoque a ¿Qué conocimiento puedo entregar?. Es importante motivar a la audiencia con su historia.\n\nStories: Para contar bien la historia hay que pensar bien cuál es: Pensar bien la estructura interna y cómo integrar los distintos componentes de ella.\n\n\nVer: Schimel, J.; 2011"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#algunas-estrategias-para-contar-historias",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#algunas-estrategias-para-contar-historias",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Algunas estrategias para contar historias",
+    "text": "Algunas estrategias para contar historias\n\n\nOpening–Challenge–Action–Resolution.\n\nIntroducir un tópico relevante o llamativo.\nPresentar un desafío o evento de interés.\nPresentar una acción relevante que desarrolla la historia.\nResultados finales.\n\n\n\nLead–Development–Resolution o Lead–Development:\n\nRevelar el punto principal desde el principio y el material posterior proporciona más detalles.\nEntregar una descripción más profunda de aspectos relevantes de la temática.\n\n\nAction–Background–Development–Climax–Ending\n\n\ny más …"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#plan-para-construir-una-historia-con-datos",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#plan-para-construir-una-historia-con-datos",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "Plan para construir una historia con datos",
+    "text": "Plan para construir una historia con datos\n\nPlanifica y dibuja un punto final.\nSimula y considera esos datos simulados.\nAdquiere y prepara los datos reales.\nExplora y comprende los datos reales.\nComparte lo que se hizo y lo que se encontró.\n\n\nVer: Telling Stories With Data"
+  },
+  {
+    "objectID": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#inscripciones-al-resto-de-talleres",
+    "href": "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.html#inscripciones-al-resto-de-talleres",
+    "title": "Taller de Visualización de Datos con R",
+    "section": "¡Inscripciones al resto de talleres!",
+    "text": "¡Inscripciones al resto de talleres!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Gabriel Duarte",
+    "title": "Gabriel Duarte Zúñiga",
     "section": "",
     "text": "¡Bienvenido a mi sitio personal!\nAquí podrás acceder a diferentes recursos enfocados en mi experiencia analizando datos en temáticas de política pública.\nSoy Ingeniero Comercial con mención en Economía y Magíster en Economía y Políticas Públicas de la Universidad Adolfo Ibáñez. Actualmente trabajo en la Municipalidad de Independencia implementando un observatorio municipal y apoyando en el diseño de indicadores y monitoreo de las prioridades del Alcade.\nAdicionalmente, desde el año 2024 formo parte del cuerpo docente del Diplomado en Herramientas de Inteligencia Artificial para Políticas Públicas de la Universidad Adolfo Ibáñez, del cual fui alumno en la generación del año 2020 y posteriormente ayudante del curso de Análisis de Datos y Estadística Computacional en la versión 2023.\nCon más de 8 años de experiencia laboral, me he especializado en el diseño, implementación y evaluación de políticas públicas en el ámbito de la seguridad pública."
   }

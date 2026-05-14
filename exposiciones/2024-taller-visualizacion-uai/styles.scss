@@ -1,0 +1,67 @@
+/*-- scss:defaults --*/
+
+// Fuente personalizada
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+// Variables del tema — van aquí porque sobreescriben los defaults de Quarto
+$font-family-sans-serif: "Crimson Text", sans-serif;
+$presentation-heading-color: #217BC8;
+$presentation-title-slide-text-align: left;
+$code-block-font-size: 0.6em;
+$code-color: #F54848;
+$presentation-h2-font-size: 1.4em;
+
+/*-- scss:rules --*/
+
+// Clases personalizadas — van aquí porque son reglas CSS, no variables
+.reveal .custom-title {
+  color: #b294bb;
+  font-size: 4em;
+  right: 20px;
+  top: -200px;
+}
+
+.medium { font-size: 0.85em; }
+.small  { font-size: 0.75em; }
+
+.reveal .slide .in-out {
+  margin-top: 0.5em;
+  padding-left: 1em;
+  background: #E8E8E8;
+  font-size: 0.6em;
+}
+
+.reveal .slide .goal {
+  margin-top: 0.5em;
+  padding-left: 1em;
+  background: #ccddeb;
+}
+
+.justify      { text-align: justify !important; }
+.border       { border: 1px solid #dee2e6; }
+.border-thick { border-width: 3px; }
+
+// Efecto animado para {.flow}
+.flow {
+  background: linear-gradient(
+    90deg,
+    #1a5f7a,   /* azul oscuro */
+    #3d8faa,   /* azul medio */
+    #ece9e6,   /* gris claro */
+    #e8cdb5,   /* beige/durazno */
+    #f07080,   /* rosa coral */
+    #3d8faa,   /* vuelve al azul para que el loop sea suave */
+    #1a5f7a
+  );
+  background-size: 300% auto;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: animate 6s linear infinite;
+  font-weight: 900;
+}
+
+@keyframes animate {
+  0%   { background-position: 0% center; }
+  100% { background-position: 300% center; }
+}

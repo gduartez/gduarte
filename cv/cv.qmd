@@ -1,0 +1,123 @@
+---
+title: Curriculum Vitae
+subtitle: Gabriel Duarte Zúñiga
+# description: "Gabriel Duarte CV"
+date: 2026-05
+date-format: "MMMM YYYY"
+# title-block-banner: "#A7C7E7"
+published-title: Última Actualización
+engine: knitr
+freeze: false
+---
+
+## Descarga CV en Español
+
+::: hex-card
+[Descargar CV (PDF)](CV_may_26.pdf){.btn .btn-primary target="_blank"}
+:::
+
+## Resumen Profesional
+Economista especializado en el análisis de datos e implementación de proyectos de prevención del delito con más de 7 años de experiencia laboral en el sector público. Poseo un manejo avanzado del software \textbf{R} y realizo docencia de postgrado en la Universidad Adolfo Ibáñez sobre análisis de datos y estadística computacional. He liderado investigaciones aplicadas en seguridad ciudadana, aportando soluciones basadas en análisis estadísticos rigurosos y asesorando en el diseño, implementación y evaluación de programas sociales. Cuento con sólidos conocimientos en métodos de evaluación de políticas públicas, análisis estadístico y análisis geoespacial. Destaco por mi capacidad analítica, atención al detalle y habilidades interpersonales para la generación de redes que generen impacto en la población. Por último, cuento una marcada iniciativa para desarrollar soluciones innovadoras y basadas en evidencia utilizando la información disponible para resolver problemas complejos.
+
+## Trayectoria profesional
+::: {.timeline .vertical-alt .tl-label-banner}
+
+::: {.event data-label="2018–2019" style="--tl-color-accent: #41516C;"}
+
+#### Analista de Control de Gestión y Asesor Comunal
+
+::: {.timeline-org}
+Subsecretaría de Prevención del Delito — Programa Lazos
+:::
+
+::: {.timeline-desc}
+Gestión presupuestaria, revisión de instrumentos de riesgo sociodelictual y apoyo al seguimiento del programa a nivel comunal.
+:::
+
+:::
+
+::: {.event data-label="2019" style="--tl-color-accent: #E24A68;"}
+
+#### Encargado de Diagnóstico
+
+::: {.timeline-org}
+Subsecretaría de Prevención del Delito — Programa Barrios Prioritarios
+:::
+
+::: {.timeline-desc}
+Elaboración de diagnósticos territoriales para barrios priorizados, integrando información física, sociodemográfica y delictual.
+:::
+
+:::
+
+::: {.event data-label="2020–2022" style="--tl-color-accent: #FBCA3E;"}
+
+#### Investigador
+
+::: {.timeline-org}
+Subsecretaría de Prevención del Delito — Dpto. Evaluación de Políticas Públicas
+:::
+
+::: {.timeline-desc}
+Evaluación de programas, diseño de instrumentos de gestión y análisis territorial para mejorar la focalización de políticas públicas.
+:::
+
+:::
+
+::: {.event data-label="2022" style="--tl-color-accent: #4CADAD;"}
+
+#### Asesor de Gabinete
+
+::: {.timeline-org}
+Servicio Nacional de Menores — Gabinete
+:::
+
+::: {.timeline-desc}
+Análisis de datos y apoyo técnico en la agenda de traspaso al nuevo Servicio de Reinserción Social Juvenil.
+:::
+
+:::
+
+::: {.event data-label="2022–2024" style="--tl-color-accent: #6A4C93;"}
+
+#### Economista e Investigador
+
+::: {.timeline-org}
+Fundación Paz Ciudadana — Área de Prevención, Justicia y Reinserción
+:::
+
+::: {.timeline-desc}
+Investigación aplicada en seguridad pública, homicidios, crimen organizado, análisis geoespacial y evaluación de programas.
+:::
+
+:::
+
+::: {.event data-label="2025–2026" style="--tl-color-accent: #1982C4;"}
+
+#### Encargado de Prevención y Programas
+
+::: {.timeline-org}
+I. Municipalidad de Independencia — Dirección de Seguridad Pública
+:::
+
+::: {.timeline-desc}
+Diseño e implementación de estrategias de prevención del delito, patrullaje focalizado y monitoreo de indicadores de gestión.
+:::
+
+:::
+
+::: {.event data-label="2026–Actualidad" style="--tl-color-accent: #003049;"}
+
+#### Encargado Observatorio Municipal
+
+::: {.timeline-org}
+I. Municipalidad de Independencia — Alcaldía
+:::
+
+::: {.timeline-desc}
+Creación del Observatorio Municipal, coordinación de 9 mesas estratégicas y formación de una Unidad de Analítica Avanzada para la toma de decisiones basada en datos.
+:::
+
+:::
+
+:::

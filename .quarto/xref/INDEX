@@ -16,5 +16,32 @@
   },
   "cv.qmd": {
     "cv.html": "fb995b7a"
+  },
+  "clases/index.qmd": {
+    "index.html": "aab885a7"
+  },
+  "cv/cv.qmd": {
+    "cv.html": "56c2e84b"
+  },
+  "cv/cv-andrew-heiss.qmd": {
+    "cv-andrew-heiss.html": "b4dbd832"
+  },
+  "exposiciones/exposiciones.qmd": {
+    "exposiciones.html": "5ca74103"
+  },
+  "exposiciones.qmd": {
+    "exposiciones.html": "ceffbafd"
+  },
+  "exposiciones/taller-visualizacion-uai-2024/index.qmd": {
+    "index.html": "217ff788"
+  },
+  "exposiciones/2024-taller-visualizacion-uai/index.qmd": {
+    "index.html": "af2c22d3"
+  },
+  "exposiciones/2024-taller-visualizacion-uai/taller-visualización-datos-2024.qmd": {
+    "taller-visualización-datos-2024.html": "1744de32"
+  },
+  "clases.qmd": {
+    "clases.html": "d8eba6e7"
   }
 }

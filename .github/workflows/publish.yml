@@ -1,0 +1,27 @@
+on:
+  push:
+    branches: main  # GitHub Actions se activa solo cuando haces push a main
+
+name: Quarto Publish
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest  # GitHub usa una máquina virtual con Linux
+    permissions:
+      contents: write  # necesario para que pueda escribir en la rama gh-pages
+      pages: write
+
+    steps:
+      # Paso 1: descarga el contenido de tu repositorio en la máquina virtual
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Paso 2: instala Quarto en la máquina virtual
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      # Paso 3: renderiza y publica (usa _freeze/ para no necesitar R)
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages

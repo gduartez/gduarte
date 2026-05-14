@@ -3,37 +3,55 @@ project:
   output-dir: docs
 
 website:
-  title: "website"
+  title: "Gabriel Duarte Zúñiga"
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   navbar:
+    background: "#003049"
+    # background: "#A52C60"
     title: Gabriel Duarte
     left:
       # - text: Home
       #   href: index.qmd
       #   icon: house
       - text: CV
-        href: cv.qmd
+        href: cv/cv.qmd
         icon: file-earmark-text
+      - text: Exposiciones
+        href: exposiciones.qmd
+        icon: collection-play
+      - text: Clases
+        href: clases.qmd
+        icon: book
     right:
+      - icon: github
+        href: https://github.com/gduartez
       - text: ""
         href: https://www.linkedin.com/in/gabriel-duarte-45773570/
         icon: linkedin
       - text: ""
         href: "mailto:gabrielestebandz@gmail.com"
         icon: envelope
-    tools:
-      - icon: github
-        href: https://github.com/gduartez
   page-footer:
-    right: "Hecho con ❤️ y [Quarto](https://quarto.org/)"
+    left: "© 2026 Gabriel Duarte"
+    right: "Hecho con mucho ❤️ y [Quarto](https://quarto.org/)"
       
 format:
   html:
     # mainfont: "Open Sans"
-    highlight-style: monokai
-    theme: [styles.scss]
-    grid: 
-      body-width: 800px
+    # highlight-style: monokai
+    toc: true
+    theme: minty
+    css: styles.scss
+    lang: es
+    fontsize: 13pt
+    citations-hover: true
+    footnotes-hover: true
+    code-link: true
+    # grid: 
+      # body-width: 1000px
 
+filters:
+  - timeline
+  
 execute:
   freeze: auto

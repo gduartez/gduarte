@@ -1,5 +1,8 @@
 {
   "listingMap": {
+    "exposiciones.qmd": [
+      "exposiciones/**/index.qmd"
+    ],
     "projects\\index.qmd": [
       "projects.yml"
     ]
