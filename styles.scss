@@ -4,9 +4,6 @@
 // https://quarto.org/docs/output-formats/html-themes.html#sass-variables
 
 $theme-lighblue: #e9ffff;
-$theme-black: #222222;
-$theme-blue: rgb(39, 128, 227);
-$theme-white: #ffffff;
 
 $white:    #ffffff !default;
 $gray-100: #f8f9fa !default;
@@ -44,26 +41,51 @@ $dark:      $black !default;
 $main-dark: #003049;
 $accent: #25b7c4;
 
-/* css styles */
+$font-family-sans-serif: "Atkinson Hyperlegible", Helvetica, Arial, sans-serif !default;
+$font-size-root: 20px;
 
+/*-- scss:rules --*/
+
+/* Texto justificado */
+p,
+.about-contents p,
+.content p,
+main p {
+  text-align: justify !important;
+}
+
+/* Listing */
+.listing-title a {
+  color: #217BC8;
+}
+
+.listing-title a:hover {
+  color: #1a5f7a;
+}
+
+.quarto-listing-category-title {
+  font-size: 1rem;
+  color: #555;
+}
+
+.quarto-listing-category .category {
+  font-size: 0.85rem !important;
+}
+
+/* Hex card */
 .hex-card {
   background: #324e65;
   border-radius: 20px;
   padding: 16px;
   margin: 28px 0 30px auto;
-  width: 100%;        /* ocupa todo el ancho del contenedor */
-  max-width: none;    /* elimina el tope anterior */
+  width: 100%;
+  max-width: none;
   text-align: center;
   border: 2px solid #324e65;
-
-  /* TEXTO */
   color: #ffffff;
-
-  /* QUITAR SOMBRAS */
   box-shadow: none;
 }
 
-/* Forzamos texto blanco adentro */
 .hex-card p,
 .hex-card h1,
 .hex-card h2,
@@ -76,15 +98,32 @@ $accent: #25b7c4;
   text-shadow: none !important;
 }
 
-/* Links */
 .hex-card a {
-  /*text-decoration: underline;*/
   font-weight: 400;
 }
 
+/* Navbar y footer */
+.navbar,
+.navbar-dark,
+.bg-primary,
+.quarto-footer,
+.nav-footer {
+  background-color: $main-dark !important;
+  background-image: none !important;
+  color: #ffffff !important;
+}
 
-// Footer
+.navbar {
+  border-bottom: 3px solid $accent;
+}
 
+.navbar-brand {
+  font-size: 1.08rem !important;
+  font-weight: 700;
+  color: #ffffff !important;
+}
+
+/* Footer */
 .quarto-footer {
   padding-top: 6px !important;
   padding-bottom: 6px !important;
@@ -103,83 +142,6 @@ $accent: #25b7c4;
   text-align: right;
 }
 
-/* Fonts */
-$font-family-sans-serif: "Atkinson Hyperlegible", Helvetica, Arial, sans-serif !default;
-$font-size-root: 20px;
-
-/*-- scss:rules --*/
-
-p {
-  text-align: justify;
-}
-
-.listing-title a {
-  color: #217BC8; /* el mismo azul de tus headings */
-}
-
-.listing-title a:hover {
-  color: #1a5f7a; /* azul más oscuro al pasar el mouse */
-}
-
-.quarto-listing-category-title {
-  font-size: 1rem;
-  color: #555;
-}
-
-.quarto-listing-category .category {
-  font-size: 0.85rem !important;
-}
-
-/* Texto justificado */
-.about-contents p,
-.content p,
-main p {
-  text-align: justify !important;
-}
-
-/* Navbar más compacta y estética */
-
-/* Navbar: más estética, pero no tan pequeña */
-/* Navbar */
-/* Navbar y footer: mismo color */
-.navbar,
-.navbar-dark,
-.bg-primary,
-.quarto-footer,
-.nav-footer {
-  background-color: $main-dark !important;
-  background-image: none !important;
-  color: #ffffff !important;
-}
-
-/* Líneas decorativas */
-.navbar {
-  border-bottom: 3px solid $accent;
-}
-
-.nav-footer {
-  border-top: 3px solid $accent;
-  min-height: 42px;
-  padding: 0.45rem 1rem;
-}
-
-.navbar-brand {
-  font-size: 1.08rem !important;
-  font-weight: 700;
-  color: #ffffff !important;
-}
-
-/* Links del contenido */
-a {
-  color: #1aa6b7;
-  font-weight: 700;
-}
-
-a:hover {
-  color: #0b7f8f;
-}
-
-/* Barra inferior tipo sitio de referencia */
 .nav-footer {
   background-color: #003049;
   color: #ffffff;
@@ -197,7 +159,7 @@ a:hover {
   color: #ffffff !important;
 }
 
-/* Hipervínculos del contenido */
+/* Links */
 a {
   color: #1aa6b7;
   font-weight: 600;
@@ -207,8 +169,7 @@ a:hover {
   color: #0b7f8f;
 }
 
-/* timeline  */
-
+/* Timeline */
 .timeline h4 {
   margin-bottom: 0.15rem;
   font-weight: 700;
@@ -229,7 +190,7 @@ a:hover {
   line-height: 1.6;
 }
 
-/* videos */
+/* Videos */
 .video-container {
   width: 100%;
   max-width: 850px;
@@ -244,8 +205,7 @@ a:hover {
   border-radius: 12px;
 }
 
-/* para pagina de docencia */
-
+/* Docencia */
 .teaching img {
   border-radius: 8px;
 }
