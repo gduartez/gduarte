@@ -28,7 +28,7 @@ Herramientas de ciencia de datos e IA para analizar problemas públicos. La prim
 ![](files/logo-nivelacion.png){width=90}
 :::
 ::: {.column width="85%"}
-**Versiones:** [2025]()
+**Versiones:** [2026](), [2024]()
 
 El objetivo de este módulo es introducir los conceptos básicos de probabilidad y estadística mediante la ejecución de código en lenguaje R. 
 
